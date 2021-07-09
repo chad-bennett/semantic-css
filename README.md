@@ -1,6 +1,6 @@
 # semantic-css
 
-a simple classless css stylesheet to dress up default html. 
+**a simple classless css stylesheet to dress up default html.** 
 
 the demo page is at [https://chad-bennett.github.io/semantic-css/](https://chad-bennett.github.io/semantic-css/)
 
